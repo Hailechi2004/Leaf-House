@@ -1,0 +1,10 @@
+Bacterial_spot
+Late_blight
+Septoria_leaf_spot
+Yellow_Leaf_Curl_Virus
+Early_blight
+Leaf_Mold
+Spider_mites
+Healthy
+Mosaic_virus
+Target_Spot

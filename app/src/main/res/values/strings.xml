@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Leaf House</string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_upload">Upload file</string>
+</resources>
